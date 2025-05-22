@@ -21,8 +21,8 @@ public class DbUserMapper : IDbUserMapper
 			  Admin = request.Admin,
 			  CreatedOn = DateTime.UtcNow,
 			  CreatedBy = createdBy,
-			  ModifiedBy = "",
-			  RevokedBy = ""
+			  ModifiedBy = string.Empty,
+			  RevokedBy = string.Empty
 		  };
 	}
 }
