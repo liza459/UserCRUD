@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserService.Mappers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8a06a48d4d9ae915f5e7176dfeeb0b8b4d9ef76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69492b72304cda14e1c52f1101f4b28128ac67bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserService.Mappers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserService.Mappers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

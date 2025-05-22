@@ -6,7 +6,7 @@ namespace UserService.Mappers.Models;
 
 public class UserInfoMapper : IUserInfoMapper
 {
-	public List<UserInfo?>? Map(List<DbUser> users)
+	public List<UserInfo>? Map(List<DbUser> users)
 	{
 		return users?.Select(u => new UserInfo
 		{

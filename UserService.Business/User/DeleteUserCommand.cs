@@ -22,4 +22,3 @@ public class DeleteUserCommand : IDeleteUserCommand
 		return new OperationResultResponse<bool> { Body = success };
 	}
 }
-

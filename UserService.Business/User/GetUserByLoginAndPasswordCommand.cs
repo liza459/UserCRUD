@@ -33,4 +33,3 @@ public class GetUserByLoginAndPasswordCommand : IGetUserByLoginAndPasswordComman
 		return new OperationResultResponse<UserSelfProfileInfo> { Body = user };
 	}
 }
-

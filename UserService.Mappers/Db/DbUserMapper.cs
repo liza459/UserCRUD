@@ -6,7 +6,7 @@ namespace UserService.Mappers.Db;
 
 public class DbUserMapper : IDbUserMapper
 {
-	public DbUser Map(CreateUserRequest request, string createdBy)
+	public DbUser? Map(CreateUserRequest request, string createdBy)
 	{
 		return request is null
 		  ? null

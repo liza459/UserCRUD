@@ -35,4 +35,3 @@ public class UpdateLoginCommand : IUpdateLoginCommand
 		return new OperationResultResponse<bool> { Body = success };
 	}
 }
-

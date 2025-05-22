@@ -7,4 +7,3 @@ public interface IDbUserMapper
 {
 	DbUser Map(CreateUserRequest request, string createdBy);
 }
-

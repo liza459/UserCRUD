@@ -1,8 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
-
-
-namespace Users.Models.Db;
+﻿namespace Users.Models.Db;
 
 public class DbUser
 {

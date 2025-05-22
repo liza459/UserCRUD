@@ -27,4 +27,3 @@ public class GetAllActiveUsersCommand : IGetAllActiveUsersCommand
 		return new OperationResultResponse<List<UserInfo?>> { Body = users };
 	}
 }
-
