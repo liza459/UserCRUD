@@ -23,16 +23,9 @@ public class CreateUserCommand : ICreateUserCommand
 	{
 		OperationResultResponse<Guid?> response = new();
 
-		DateTime? birthday = request.Birthday;
-
-		if (birthday.HasValue)
+		if (request.Birthday.HasValue)
 		{
-			var dt = birthday.Value;
-			if (dt.Kind == DateTimeKind.Unspecified)
-			{
-				dt = DateTime.SpecifyKind(dt, DateTimeKind.Local);
-			}
-			request.Birthday = dt.ToUniversalTime();
+			request.Birthday = DateTime.SpecifyKind(request.Birthday.Value, DateTimeKind.Utc);
 		}
 
 		if (await _userRepository.DoesExistLoginAsync(request.Login))

@@ -18,7 +18,7 @@ public class UserRepository: IUserRepository
 		return await _provider.Users.AnyAsync(u => u.RevokedOn == null && u.Guid == guid);
 	}
 
-	public async Task<DbUser> GetAsync(Guid guid)
+	public async Task<DbUser?> GetAsync(Guid guid)
 	{
 		return await _provider.Users.FirstOrDefaultAsync(u => u.RevokedOn == null && u.Guid == guid);
 	}
@@ -33,7 +33,7 @@ public class UserRepository: IUserRepository
 
 	public async Task<bool> DoesExistLoginAsync(string login)
 	{
-		return await _provider.Users.AnyAsync(u => u.RevokedOn == null && u.Login == login);
+		return await _provider.Users.AnyAsync(u => u.RevokedOn == null && u.Login == login.Trim());
 	}
 
 	public async Task<bool> UpdateUserAsync(DbUser dbUser)
@@ -42,7 +42,7 @@ public class UserRepository: IUserRepository
 		if (existingUser == null)
 			return false;
 
-		existingUser.Name = dbUser.Name;
+		existingUser.Name = dbUser.Name.Trim();
 		existingUser.Gender = dbUser.Gender;
 		existingUser.Birthday = dbUser.Birthday;
 
@@ -69,7 +69,7 @@ public class UserRepository: IUserRepository
 		if (user == null || await DoesExistLoginAsync(newLogin))
 			return false;
 
-		user.Login = newLogin;
+		user.Login = newLogin.Trim();
 		await _provider.SaveChangesAsync();
 
 		return true;
@@ -117,19 +117,19 @@ public class UserRepository: IUserRepository
 		return true;
 	}
 
-	public async Task<List<DbUser?>> GetActiveUsersAsync()
+	public async Task<List<DbUser>> GetActiveUsersAsync()
 	{
 		return await _provider.Users.Where(u => u.RevokedOn == null).OrderByDescending(u => u.CreatedOn).ToListAsync();
 	}
 
 	public async Task<DbUser?> GetUserByLoginAsync(string login)
 	{
-		return await _provider.Users.FirstOrDefaultAsync(u => u.RevokedOn == null && u.Login == login);
+		return await _provider.Users.FirstOrDefaultAsync(u => u.RevokedOn == null && u.Login == login.Trim());
 	}
 
 	public async Task<DbUser?> GetUserByLoginAndPasswordAsync(string login, string password)
 	{
-		return await _provider.Users.FirstOrDefaultAsync(u => u.RevokedOn == null && u.Login == login && u.Password == password);
+		return await _provider.Users.FirstOrDefaultAsync(u => u.RevokedOn == null && u.Login == login.Trim() && u.Password == password);
 	}
 
 	public async Task<List<DbUser?>> GetUsersByAgeAsync(int age)

@@ -3,13 +3,25 @@
   "WorkspaceRootPath": "D:\\Liza\\repos\\UserCRUD\\UserService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC77D09C-946D-4504-BB3F-1F3CCC8C7951}|..\\UserService.Business\\UserService.Business.csproj|d:\\liza\\repos\\usercrud\\userservice.business\\user\\getuserbyloginandpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7553FDA-F9DD-4962-847A-8C9DBD714350}|..\\UserService.Data\\UserService.Data.csproj|d:\\liza\\repos\\usercrud\\userservice.data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC77D09C-946D-4504-BB3F-1F3CCC8C7951}|..\\UserService.Business\\UserService.Business.csproj|d:\\liza\\repos\\usercrud\\userservice.business\\user\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC77D09C-946D-4504-BB3F-1F3CCC8C7951}|..\\UserService.Business\\UserService.Business.csproj|d:\\liza\\repos\\usercrud\\userservice.business\\user\\updatelogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC77D09C-946D-4504-BB3F-1F3CCC8C7951}|..\\UserService.Business\\UserService.Business.csproj|d:\\liza\\repos\\usercrud\\userservice.business\\user\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC77D09C-946D-4504-BB3F-1F3CCC8C7951}|..\\UserService.Business\\UserService.Business.csproj|d:\\liza\\repos\\usercrud\\userservice.business\\user\\updateuserinfocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC77D09C-946D-4504-BB3F-1F3CCC8C7951}|..\\UserService.Business\\UserService.Business.csproj|d:\\liza\\repos\\usercrud\\userservice.business\\user\\updatepasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7553FDA-F9DD-4962-847A-8C9DBD714350}|..\\UserService.Data\\UserService.Data.csproj|d:\\liza\\repos\\usercrud\\userservice.data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC77D09C-946D-4504-BB3F-1F3CCC8C7951}|..\\UserService.Business\\UserService.Business.csproj|d:\\liza\\repos\\usercrud\\userservice.business\\user\\interfaces\\ideleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -68,7 +80,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -100,20 +112,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "GetUserByLoginAndPasswordCommand.cs",
+              "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Business\\User\\GetUserByLoginAndPasswordCommand.cs",
+              "RelativeDocumentMoniker": "..\\UserService.Business\\User\\GetUserByLoginAndPasswordCommand.cs",
+              "ToolTip": "D:\\Liza\\repos\\UserCRUD\\UserService.Business\\User\\GetUserByLoginAndPasswordCommand.cs*",
+              "RelativeToolTip": "..\\UserService.Business\\User\\GetUserByLoginAndPasswordCommand.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:38:09.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateUserInfoCommand.cs",
+              "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Business\\User\\UpdateUserInfoCommand.cs",
+              "RelativeDocumentMoniker": "..\\UserService.Business\\User\\UpdateUserInfoCommand.cs",
+              "ToolTip": "D:\\Liza\\repos\\UserCRUD\\UserService.Business\\User\\UpdateUserInfoCommand.cs",
+              "RelativeToolTip": "..\\UserService.Business\\User\\UpdateUserInfoCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:24:30.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdatePasswordCommand.cs",
+              "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Business\\User\\UpdatePasswordCommand.cs",
+              "RelativeDocumentMoniker": "..\\UserService.Business\\User\\UpdatePasswordCommand.cs",
+              "ToolTip": "D:\\Liza\\repos\\UserCRUD\\UserService.Business\\User\\UpdatePasswordCommand.cs",
+              "RelativeToolTip": "..\\UserService.Business\\User\\UpdatePasswordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:24:30.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Data\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\UserService.Data\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\Liza\\repos\\UserCRUD\\UserService.Data\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\UserService.Data\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:07:42.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UpdateLoginCommand.cs",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Business\\User\\UpdateLoginCommand.cs",
               "RelativeDocumentMoniker": "..\\UserService.Business\\User\\UpdateLoginCommand.cs",
               "ToolTip": "D:\\Liza\\repos\\UserCRUD\\UserService.Business\\User\\UpdateLoginCommand.cs",
               "RelativeToolTip": "..\\UserService.Business\\User\\UpdateLoginCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T19:03:44.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ICreateUserCommand.cs",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Business\\User\\Interfaces\\ICreateUserCommand.cs",
               "RelativeDocumentMoniker": "..\\UserService.Business\\User\\Interfaces\\ICreateUserCommand.cs",
@@ -126,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IDeleteUserCommand.cs",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Business\\User\\Interfaces\\IDeleteUserCommand.cs",
               "RelativeDocumentMoniker": "..\\UserService.Business\\User\\Interfaces\\IDeleteUserCommand.cs",
@@ -139,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "DeleteUserCommand.cs",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Business\\User\\DeleteUserCommand.cs",
               "RelativeDocumentMoniker": "..\\UserService.Business\\User\\DeleteUserCommand.cs",
@@ -158,14 +222,27 @@
               "RelativeDocumentMoniker": "..\\UserService.Business\\User\\CreateUserCommand.cs",
               "ToolTip": "D:\\Liza\\repos\\UserCRUD\\UserService.Business\\User\\CreateUserCommand.cs",
               "RelativeToolTip": "..\\UserService.Business\\User\\CreateUserCommand.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T18:56:10.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\UserService.Data\\UserRepository.cs",
+              "ToolTip": "D:\\Liza\\repos\\UserCRUD\\UserService.Data\\UserRepository.cs",
+              "RelativeToolTip": "..\\UserService.Data\\UserRepository.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:42:52.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "20250521123100_initialTables.cs",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Data.Provider.Sql.Ef\\Migrations\\20250521123100_initialTables.cs",
               "RelativeDocumentMoniker": "..\\UserService.Data.Provider.Sql.Ef\\Migrations\\20250521123100_initialTables.cs",
@@ -178,20 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Data\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\UserService.Data\\UserRepository.cs",
-              "ToolTip": "D:\\Liza\\repos\\UserCRUD\\UserService.Data\\UserRepository.cs",
-              "RelativeToolTip": "..\\UserService.Data\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T18:42:52.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "CreateUserRequest.cs",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Models.Dto\\Requests\\CreateUserRequest.cs",
               "RelativeDocumentMoniker": "..\\UserService.Models.Dto\\Requests\\CreateUserRequest.cs",
@@ -204,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "AdminUserProfileInfo.cs",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Models.Dto\\Models\\AdminUserProfileInfo.cs",
               "RelativeDocumentMoniker": "..\\UserService.Models.Dto\\Models\\AdminUserProfileInfo.cs",
@@ -217,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "UserControllers.cs",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService\\Controllers\\UserControllers.cs",
               "RelativeDocumentMoniker": "Controllers\\UserControllers.cs",
@@ -230,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "OperationResultResponse.cs",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Models.Dto\\Response\\OperationResultResponse.cs",
               "RelativeDocumentMoniker": "..\\UserService.Models.Dto\\Response\\OperationResultResponse.cs",
@@ -243,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "UserInfo.cs",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Models.Dto\\Models\\UserInfo.cs",
               "RelativeDocumentMoniker": "..\\UserService.Models.Dto\\Models\\UserInfo.cs",
@@ -256,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "UpdateUserRequest.cs",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Models.Dto\\Requests\\UpdateUserRequest.cs",
               "RelativeDocumentMoniker": "..\\UserService.Models.Dto\\Requests\\UpdateUserRequest.cs",
@@ -269,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -282,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "AdminUserProfileInfoMapper.cs",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService.Mappers\\Models\\AdminUserProfileInfoMapper.cs",
               "RelativeDocumentMoniker": "..\\UserService.Mappers\\Models\\AdminUserProfileInfoMapper.cs",
@@ -295,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -308,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\UserService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -321,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\Liza\\repos\\UserCRUD\\.gitignore",
               "RelativeDocumentMoniker": "..\\.gitignore",

@@ -25,7 +25,7 @@ public class GetUserByLoginAndPasswordCommand : IGetUserByLoginAndPasswordComman
 		var response = await _userRepository.GetUserByLoginAndPasswordAsync(request.Login, request.Password);
 		if (response == null)
 		{
-			return new OperationResultResponse<UserSelfProfileInfo> { Errors = new List<string> { "User not found or invalid credentials." } };
+			return new OperationResultResponse<UserSelfProfileInfo> { Errors = new List<string> { "User not found or credentials are invalid." } };
 		}
 
 		UserSelfProfileInfo user = _mapper.Map(response);
