@@ -17,7 +17,7 @@ public class AdminUserProfileInfoMapper : IAdminUserProfileInfoMapper
 			Name = user.Name,
 			Gender = user.Gender,
 			Birthday = user.Birthday,
-			IsActiv = user.RevokedOn == null,
+			IsActive = user.RevokedOn == null,
 		};
 	}
 }

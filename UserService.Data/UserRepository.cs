@@ -13,7 +13,7 @@ public class UserRepository: IUserRepository
 		_provider = provider;
 	}
 
-	public async Task<bool> DoesExistUserAsync(Guid guid)
+	public async Task<bool> DoesUserExistAsync(Guid guid)
 	{
 		return await _provider.Users.AnyAsync(u => u.RevokedOn == null && u.Guid == guid);
 	}
@@ -46,7 +46,6 @@ public class UserRepository: IUserRepository
 		existingUser.Gender = dbUser.Gender;
 		existingUser.Birthday = dbUser.Birthday;
 
-		_provider.Users.Update(existingUser);
 		await _provider.SaveChangesAsync();
 
 		return true;
@@ -59,7 +58,6 @@ public class UserRepository: IUserRepository
 			return false;
 
 		user.Password = newPassword;
-		_provider.Users.Update(user);
 		await _provider.SaveChangesAsync();
 
 		return true;
@@ -72,7 +70,6 @@ public class UserRepository: IUserRepository
 			return false;
 
 		user.Login = newLogin;
-		_provider.Users.Update(user);
 		await _provider.SaveChangesAsync();
 
 		return true;
@@ -87,7 +84,6 @@ public class UserRepository: IUserRepository
 		user.RevokedOn = DateTime.UtcNow;
 		user.RevokedBy = revokedBy;
 
-		_provider.Users.Update(user);
 		await _provider.SaveChangesAsync();
 
 		return true;
@@ -114,9 +110,8 @@ public class UserRepository: IUserRepository
 		user.ModifiedOn = DateTime.UtcNow;
 		user.ModifiedBy = modifiedBy;
 		user.RevokedOn = null;
-		user.RevokedBy = "";
+		user.RevokedBy = string.Empty;
 
-		_provider.Users.Update(user);
 		await _provider.SaveChangesAsync();
 
 		return true;

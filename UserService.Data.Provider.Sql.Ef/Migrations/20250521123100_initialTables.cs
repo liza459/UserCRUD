@@ -25,9 +25,9 @@ public class InitialTables : Migration
 				CreatedOn = table.Column<DateTime>(nullable: false),
 				CreatedBy = table.Column<string>(nullable:false),
 				ModifiedOn = table.Column<DateTime>(nullable: true),
-				ModifiedBy = table.Column<string>(nullable: false),
+				ModifiedBy = table.Column<string>(nullable: true),
 				RevokedOn = table.Column<DateTime>(nullable: true),
-				RevokedBy = table.Column<string>(nullable: false),
+				RevokedBy = table.Column<string>(nullable: true),
 			},
 			constraints: table =>
 			{

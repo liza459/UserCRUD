@@ -7,5 +7,5 @@ public class AdminUserProfileInfo
 	public string Name { get; set; }
 	public int Gender { get; set; }
 	public DateTime? Birthday { get; set; }
-	public bool IsActiv { get; set; }
+	public bool IsActive { get; set; }
 }

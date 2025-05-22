@@ -13,3 +13,4 @@ D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\UserSer
 D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\refint\UserService.Data.Provider.Sql.Ef.dll
 D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\UserService.Data.Provider.Sql.Ef.pdb
 D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\ref\UserService.Data.Provider.Sql.Ef.dll
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\UserService.Data.Provider.Sql.Ef.sourcelink.json

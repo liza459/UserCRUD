@@ -183,3 +183,4 @@ D:\Liza\repos\UserCRUD\UserService\bin\Debug\net9.0\UserService.Mappers.pdb
 D:\Liza\repos\UserCRUD\UserService\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Liza\repos\UserCRUD\UserService\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
 D:\Liza\repos\UserCRUD\UserService\bin\Debug\net9.0\Microsoft.AspNet.Identity.Core.dll
+D:\Liza\repos\UserCRUD\UserService\obj\Debug\net9.0\UserService.sourcelink.json

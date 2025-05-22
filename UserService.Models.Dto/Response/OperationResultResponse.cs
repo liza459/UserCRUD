@@ -9,7 +9,7 @@ public class OperationResultResponse<T>
 	[Required]
 	public List<string> Errors { get; set; } = new List<string>();
 
-	public OperationResultResponse(T body = default(T), List<string> errors = null)
+	public OperationResultResponse(T body = default(T), List<string>? errors = null)
 	{
 		Body = body;
 		Errors = errors ?? new List<string>();

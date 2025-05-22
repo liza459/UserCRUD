@@ -4,7 +4,7 @@ namespace UserService.Data.Interfaces;
 
 public interface IUserRepository
 {
-	Task<bool> DoesExistUserAsync(Guid id);
+	Task<bool> DoesUserExistAsync(Guid id);
 	Task<DbUser> GetAsync(Guid guid);
 	Task<Guid?> CreateAsync(DbUser dbUser);
 	Task<bool> DoesExistLoginAsync(string login);

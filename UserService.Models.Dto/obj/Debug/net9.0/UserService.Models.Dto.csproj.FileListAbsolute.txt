@@ -10,3 +10,4 @@ D:\Liza\repos\UserCRUD\UserService.Models.Dto\obj\Debug\net9.0\refint\UserServic
 D:\Liza\repos\UserCRUD\UserService.Models.Dto\obj\Debug\net9.0\UserService.Models.Dto.pdb
 D:\Liza\repos\UserCRUD\UserService.Models.Dto\obj\Debug\net9.0\ref\UserService.Models.Dto.dll
 D:\Liza\repos\UserCRUD\UserService.Models.Dto\obj\Debug\net9.0\UserService.Models.Dto.csproj.AssemblyReference.cache
+D:\Liza\repos\UserCRUD\UserService.Models.Dto\obj\Debug\net9.0\UserService.Models.Dto.sourcelink.json

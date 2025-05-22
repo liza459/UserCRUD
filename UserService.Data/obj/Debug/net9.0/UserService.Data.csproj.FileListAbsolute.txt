@@ -15,3 +15,4 @@ D:\Liza\repos\UserCRUD\UserService.Data\bin\Debug\net9.0\UserService.Data.Provid
 D:\Liza\repos\UserCRUD\UserService.Data\bin\Debug\net9.0\UserService.Models.Db.pdb
 D:\Liza\repos\UserCRUD\UserService.Data\obj\Debug\net9.0\UserService.Data.csproj.AssemblyReference.cache
 D:\Liza\repos\UserCRUD\UserService.Data\obj\Debug\net9.0\UserServ.E9B78E43.Up2Date
+D:\Liza\repos\UserCRUD\UserService.Data\obj\Debug\net9.0\UserService.Data.sourcelink.json

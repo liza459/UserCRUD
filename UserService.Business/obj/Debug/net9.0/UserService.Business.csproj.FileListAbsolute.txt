@@ -21,3 +21,4 @@ D:\Liza\repos\UserCRUD\UserService.Business\bin\Debug\net9.0\UserService.Models.
 D:\Liza\repos\UserCRUD\UserService.Business\bin\Debug\net9.0\UserService.Data.Provider.Sql.Ef.pdb
 D:\Liza\repos\UserCRUD\UserService.Business\bin\Debug\net9.0\UserService.Models.Db.pdb
 D:\Liza\repos\UserCRUD\UserService.Business\obj\Debug\net9.0\UserServ.22E026EB.Up2Date
+D:\Liza\repos\UserCRUD\UserService.Business\obj\Debug\net9.0\UserService.Business.sourcelink.json

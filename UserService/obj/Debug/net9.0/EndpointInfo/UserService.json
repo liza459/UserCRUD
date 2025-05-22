@@ -360,7 +360,7 @@
           },
           "birthday": {
             "type": "string",
-            "format": "date",
+            "format": "date-time",
             "nullable": true
           },
           "admin": {

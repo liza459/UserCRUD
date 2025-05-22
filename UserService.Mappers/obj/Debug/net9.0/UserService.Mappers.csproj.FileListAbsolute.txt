@@ -15,3 +15,4 @@ D:\Liza\repos\UserCRUD\UserService.Mappers\bin\Debug\net9.0\UserService.Models.D
 D:\Liza\repos\UserCRUD\UserService.Mappers\bin\Debug\net9.0\UserService.Models.Dto.pdb
 D:\Liza\repos\UserCRUD\UserService.Mappers\obj\Debug\net9.0\UserService.Mappers.csproj.AssemblyReference.cache
 D:\Liza\repos\UserCRUD\UserService.Mappers\obj\Debug\net9.0\UserServ.B4BC9DED.Up2Date
+D:\Liza\repos\UserCRUD\UserService.Mappers\obj\Debug\net9.0\UserService.Mappers.sourcelink.json
