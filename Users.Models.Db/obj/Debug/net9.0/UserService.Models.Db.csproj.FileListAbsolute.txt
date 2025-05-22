@@ -1,0 +1,12 @@
+D:\Liza\repos\UserCRUD\Users.Models.Db\bin\Debug\net9.0\UserService.Models.Db.deps.json
+D:\Liza\repos\UserCRUD\Users.Models.Db\bin\Debug\net9.0\UserService.Models.Db.dll
+D:\Liza\repos\UserCRUD\Users.Models.Db\bin\Debug\net9.0\UserService.Models.Db.pdb
+D:\Liza\repos\UserCRUD\Users.Models.Db\obj\Debug\net9.0\UserService.Models.Db.csproj.AssemblyReference.cache
+D:\Liza\repos\UserCRUD\Users.Models.Db\obj\Debug\net9.0\UserService.Models.Db.GeneratedMSBuildEditorConfig.editorconfig
+D:\Liza\repos\UserCRUD\Users.Models.Db\obj\Debug\net9.0\UserService.Models.Db.AssemblyInfoInputs.cache
+D:\Liza\repos\UserCRUD\Users.Models.Db\obj\Debug\net9.0\UserService.Models.Db.AssemblyInfo.cs
+D:\Liza\repos\UserCRUD\Users.Models.Db\obj\Debug\net9.0\UserService.Models.Db.csproj.CoreCompileInputs.cache
+D:\Liza\repos\UserCRUD\Users.Models.Db\obj\Debug\net9.0\UserService.Models.Db.dll
+D:\Liza\repos\UserCRUD\Users.Models.Db\obj\Debug\net9.0\refint\UserService.Models.Db.dll
+D:\Liza\repos\UserCRUD\Users.Models.Db\obj\Debug\net9.0\UserService.Models.Db.pdb
+D:\Liza\repos\UserCRUD\Users.Models.Db\obj\Debug\net9.0\ref\UserService.Models.Db.dll

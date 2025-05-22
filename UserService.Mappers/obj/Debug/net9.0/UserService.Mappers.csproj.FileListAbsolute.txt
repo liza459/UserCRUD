@@ -1,0 +1,17 @@
+D:\Liza\repos\UserCRUD\UserService.Mappers\bin\Debug\net9.0\UserService.Mappers.deps.json
+D:\Liza\repos\UserCRUD\UserService.Mappers\bin\Debug\net9.0\UserService.Mappers.dll
+D:\Liza\repos\UserCRUD\UserService.Mappers\bin\Debug\net9.0\UserService.Mappers.pdb
+D:\Liza\repos\UserCRUD\UserService.Mappers\obj\Debug\net9.0\UserService.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Liza\repos\UserCRUD\UserService.Mappers\obj\Debug\net9.0\UserService.Mappers.AssemblyInfoInputs.cache
+D:\Liza\repos\UserCRUD\UserService.Mappers\obj\Debug\net9.0\UserService.Mappers.AssemblyInfo.cs
+D:\Liza\repos\UserCRUD\UserService.Mappers\obj\Debug\net9.0\UserService.Mappers.csproj.CoreCompileInputs.cache
+D:\Liza\repos\UserCRUD\UserService.Mappers\obj\Debug\net9.0\UserService.Mappers.dll
+D:\Liza\repos\UserCRUD\UserService.Mappers\obj\Debug\net9.0\refint\UserService.Mappers.dll
+D:\Liza\repos\UserCRUD\UserService.Mappers\obj\Debug\net9.0\UserService.Mappers.pdb
+D:\Liza\repos\UserCRUD\UserService.Mappers\obj\Debug\net9.0\ref\UserService.Mappers.dll
+D:\Liza\repos\UserCRUD\UserService.Mappers\bin\Debug\net9.0\UserService.Models.Db.dll
+D:\Liza\repos\UserCRUD\UserService.Mappers\bin\Debug\net9.0\UserService.Models.Dto.dll
+D:\Liza\repos\UserCRUD\UserService.Mappers\bin\Debug\net9.0\UserService.Models.Db.pdb
+D:\Liza\repos\UserCRUD\UserService.Mappers\bin\Debug\net9.0\UserService.Models.Dto.pdb
+D:\Liza\repos\UserCRUD\UserService.Mappers\obj\Debug\net9.0\UserService.Mappers.csproj.AssemblyReference.cache
+D:\Liza\repos\UserCRUD\UserService.Mappers\obj\Debug\net9.0\UserServ.B4BC9DED.Up2Date

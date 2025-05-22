@@ -1,0 +1,17 @@
+D:\Liza\repos\UserCRUD\UserService.Data\bin\Debug\net9.0\UserService.Data.deps.json
+D:\Liza\repos\UserCRUD\UserService.Data\bin\Debug\net9.0\UserService.Data.dll
+D:\Liza\repos\UserCRUD\UserService.Data\bin\Debug\net9.0\UserService.Data.pdb
+D:\Liza\repos\UserCRUD\UserService.Data\obj\Debug\net9.0\UserService.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Liza\repos\UserCRUD\UserService.Data\obj\Debug\net9.0\UserService.Data.AssemblyInfoInputs.cache
+D:\Liza\repos\UserCRUD\UserService.Data\obj\Debug\net9.0\UserService.Data.AssemblyInfo.cs
+D:\Liza\repos\UserCRUD\UserService.Data\obj\Debug\net9.0\UserService.Data.csproj.CoreCompileInputs.cache
+D:\Liza\repos\UserCRUD\UserService.Data\obj\Debug\net9.0\UserService.Data.dll
+D:\Liza\repos\UserCRUD\UserService.Data\obj\Debug\net9.0\refint\UserService.Data.dll
+D:\Liza\repos\UserCRUD\UserService.Data\obj\Debug\net9.0\UserService.Data.pdb
+D:\Liza\repos\UserCRUD\UserService.Data\obj\Debug\net9.0\ref\UserService.Data.dll
+D:\Liza\repos\UserCRUD\UserService.Data\bin\Debug\net9.0\UserService.Data.Provider.Sql.Ef.dll
+D:\Liza\repos\UserCRUD\UserService.Data\bin\Debug\net9.0\UserService.Models.Db.dll
+D:\Liza\repos\UserCRUD\UserService.Data\bin\Debug\net9.0\UserService.Data.Provider.Sql.Ef.pdb
+D:\Liza\repos\UserCRUD\UserService.Data\bin\Debug\net9.0\UserService.Models.Db.pdb
+D:\Liza\repos\UserCRUD\UserService.Data\obj\Debug\net9.0\UserService.Data.csproj.AssemblyReference.cache
+D:\Liza\repos\UserCRUD\UserService.Data\obj\Debug\net9.0\UserServ.E9B78E43.Up2Date

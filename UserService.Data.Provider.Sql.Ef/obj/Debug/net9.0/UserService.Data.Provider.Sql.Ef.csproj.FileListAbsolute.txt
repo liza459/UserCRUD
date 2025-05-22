@@ -1,0 +1,15 @@
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\bin\Debug\net9.0\UserService.Data.Provider.Sql.Ef.deps.json
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\bin\Debug\net9.0\UserService.Data.Provider.Sql.Ef.dll
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\bin\Debug\net9.0\UserService.Data.Provider.Sql.Ef.pdb
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\bin\Debug\net9.0\UserService.Models.Db.dll
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\bin\Debug\net9.0\UserService.Models.Db.pdb
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\UserService.Data.Provider.Sql.Ef.csproj.AssemblyReference.cache
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\UserService.Data.Provider.Sql.Ef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\UserService.Data.Provider.Sql.Ef.AssemblyInfoInputs.cache
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\UserService.Data.Provider.Sql.Ef.AssemblyInfo.cs
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\UserService.Data.Provider.Sql.Ef.csproj.CoreCompileInputs.cache
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\UserServ.FD4B99DD.Up2Date
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\UserService.Data.Provider.Sql.Ef.dll
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\refint\UserService.Data.Provider.Sql.Ef.dll
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\UserService.Data.Provider.Sql.Ef.pdb
+D:\Liza\repos\UserCRUD\UserService.Data.Provider.Sql.Ef\obj\Debug\net9.0\ref\UserService.Data.Provider.Sql.Ef.dll
